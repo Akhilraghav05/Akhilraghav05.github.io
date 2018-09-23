@@ -1,0 +1,16 @@
+:root{
+    font-size: 16px;
+}
+
+
+
+
+.container-fluid {
+    margin-top: 1rem;
+    
+}
+body{
+    border-style: solid; 
+    border-width:thin; 
+    border-color: black;
+}
